@@ -10,7 +10,7 @@ When a new client is added in Clio, the system automatically sends a personalize
 
 ## 📸 System Preview
 
-![Client Onboarding Automation](High-Converting Client Onboarding System (Legal CRM Automation).png)
+![Client Onboarding Automation](legal crm.png)
 
 ---
 
